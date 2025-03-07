@@ -1,37 +1,35 @@
 ---
 layout: default
-title: Cybersecurity Portfolio
+title: Home
 ---
 
-# Cybersecurity Portfolio
+# Welcome to My Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio. Here, I showcase my projects and skills in ethical hacking, malware analysis, and digital forensics.
+Hi! I'm a cybersecurity enthusiast passionate about penetration testing, malware analysis, and digital defense.
 
-## About Me
-I am a cybersecurity enthusiast passionate about penetration testing, threat intelligence, and network security.
+## 🛠️ Projects
 
-## Projects
+- **Penetration Testing**  
+  Identified and exploited vulnerabilities in a web application.  
+  [View Project](#)
 
-### [Penetration Testing Report](./projects/penetration-testing.md)
-- Identified vulnerabilities in a web application.
-- Conducted ethical hacking and security assessments.
+- **Malware Analysis**  
+  Reverse-engineered malicious software to understand its behavior.  
+  [View Project](#)
 
-### [Malware Analysis](./projects/malware-analysis.md)
-- Reverse-engineered malware samples.
-- Investigated malicious behavior and created mitigation strategies.
+- **Threat Intelligence**  
+  Developed scripts for gathering and analyzing threat data.  
+  [View Project](#)
 
-### [Threat Intelligence Automation](./projects/threat-intelligence.md)
-- Developed scripts to collect and analyze threat data.
-- Improved detection of emerging cyber threats.
+## 🔒 Skills
 
-## Skills
-- **Penetration Testing**
-- **Network Security**
-- **Malware Analysis**
-- **Threat Intelligence**
-- **Incident Response**
-- **Digital Forensics**
+- 🛡️ Network Security  
+- 🔍 Threat Intelligence  
+- 🚨 Incident Response  
+- 🏴‍☠️ Ethical Hacking  
+- 🔗 Vulnerability Assessment  
 
-## Contact
-📧 [Email Me](mailto:your.email@example.com)  
-🔗 [GitHub](https://github.com/your-profile) | [LinkedIn](https://linkedin.com/in/your-profile)
+## 📩 Contact
+
+Feel free to reach out via:  
+📧 [Email](mailto:your.email@example.com) | 🐙 [GitHub](https://github.com/your-profile) | 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/)
